@@ -56,7 +56,6 @@ python ./model/generate_synthetic_data.py
 python train_model.py
 ```
 ```bash
-cd ai_model
 python app.py
 ```
 - Ensure the model listens for incoming requests from the backend.
